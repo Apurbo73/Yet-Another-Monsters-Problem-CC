@@ -1,4 +1,4 @@
-### 🔍 Yet Another Monsters Problem CC:
+### 🔍 Yet Another Monsters Problem CC:-
 
 
 This C++ code processes multiple test cases, and for each one, it computes a specific minimum value based on a list of numbers. Let’s break it down step-by-step:
