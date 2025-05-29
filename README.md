@@ -99,4 +99,3 @@ For each test case, the code reads a list of integers, sorts it, and then calcul
 **Approach Summary (Paragraph 2):**
 By evaluating this `time` across the sorted array, the algorithm finds the minimum possible such value, representing the best timing or least cost scenario. This is output as the answer for each test case.
 
-Let me know if you'd like a [visual diagram](f) or [example walk-through](f) to make this even clearer.
