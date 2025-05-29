@@ -5,7 +5,7 @@ This C++ code processes multiple test cases, and for each one, it computes a spe
 
 ---
 
-#### 🔧 **Code Overview**
+### 🔧 **Code Overview**
 
 ```cpp
 #include <bits/stdc++.h>
