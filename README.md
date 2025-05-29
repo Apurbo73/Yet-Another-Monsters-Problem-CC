@@ -93,9 +93,8 @@ cout << ans << "\n";
 
 This pattern often appears in **greedy algorithms** or **scheduling problems** where you're finding the best time to perform an action based on some sorted list.
 
-**Approach Summary (Paragraph 1):**
+### Approach
 For each test case, the code reads a list of integers, sorts it, and then calculates a value `time = A[i] + (N - i - 1)` for each element. Here, `A[i]` is the current value, and `(N - i - 1)` is the count of elements greater than it (those "alive after" this point). The idea is to simulate a scenario where each element takes `A[i]` time and is affected by how many elements follow it.
 
-**Approach Summary (Paragraph 2):**
 By evaluating this `time` across the sorted array, the algorithm finds the minimum possible such value, representing the best timing or least cost scenario. This is output as the answer for each test case.
 
